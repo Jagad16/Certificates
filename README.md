@@ -1,7 +1,7 @@
 # My Certificates
 
 ## Certificate 1
-![Certificate 1](AWS.png)
+![AWS](AWS.png)
 
 ## Certificate 2
 ![Machine Learning Using Python](ML.png)
@@ -11,5 +11,8 @@
 
 ## Certificate 4
 ![Cybersecurity Essentials](Cyber.png)
+
+## Certificate 4
+![Introduction to Cybersecurity Essentials](it.png)
 
 
