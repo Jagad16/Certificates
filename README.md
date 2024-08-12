@@ -1,7 +1,7 @@
 # My Certificates
 
 ## Certificate 1
-![Certificate 1](certificates/certificate1.jpg)
+![Certificate 1](certificates/AWS.jpg)
 *Description of what the certificate is for.*
 
 ## Certificate 2
