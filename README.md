@@ -2,8 +2,14 @@
 
 ## Certificate 1
 ![Certificate 1](AWS.png)
-*Description of what the certificate is for.*
 
 ## Certificate 2
-![Certificate 2](certificates/certificate2.pdf)
-*Description of what the certificate is for.*
+![Machine Learning Using Python](ML.png)
+
+## Certificate 3
+![DevNet](Dev.png)
+
+## Certificate 4
+![Cybersecurity Essentials](Cyber.png)
+
+
